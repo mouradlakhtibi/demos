@@ -1,8 +1,8 @@
 ### modify a running container website
 Clone the Lab’s GitHub Repo
-Use the following command to clone the lab’s repo from GitHub (you can click the command or manually type it). This will make a copy of the lab’s repo in a new sub-directory called linux_tweet_app.
+Use the following command to clone the lab’s repo from GitHub (you can click the command or manually type it). and go to dir  called linux_tweet_app.
 
-    git clone https://github.com/dockersamples/linux_tweet_app
+    git clone https://github.com/mouradlakhtibi/demos
 
  Modify a running website
 When you’re actively working on an application it is inconvenient to have to stop the container, rebuild the image, and run a new version every time you make a change to your source code.
