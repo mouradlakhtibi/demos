@@ -62,8 +62,9 @@ Rerun the current version without a bind mount.
 Notice the website is back to the original version.
 
 Stop and remove the current container
-
+```
 docker rm --force linux_tweet_app
+```
 Update the image
 To persist the changes you made to the index.html file into the image, you need to build a new version of the image.
 
